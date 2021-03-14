@@ -1,4 +1,4 @@
-## <a name=ASCAD_PCA_with_MLP"> ASCAD_PCA_with_MLP
+## ASCAD_PCA_with_MLP
 
 ## Copyright and license
 
